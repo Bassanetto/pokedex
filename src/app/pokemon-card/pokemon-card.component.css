@@ -1,0 +1,62 @@
+.pokemon-card 
+{
+    border-radius: 5px;
+    font-family: "Signika", arial, sans-serif;
+    margin: 0 5px 50px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    width: 215px;
+}
+
+.pokemon-card-image
+{
+    background: #F2F2F2;
+}
+
+.pokemon-card-number
+{
+    color: #919191;
+    font-size: 80%;
+    padding-top: 2px;
+    padding: 0 10px;
+}
+
+.pokemon-card-name
+{
+    color: #313131;
+    font-size: 145%;
+    margin: 0.5em 0 5px;
+    padding: 0 10px;
+}
+
+.pokemon-card-types
+{
+    display: flex;
+}
+
+.type-grass
+{
+    margin: 0 10px;
+    border-radius: 3px;
+    line-height: 18px;
+    max-width: 110px;
+    width: 38.4375%;
+    font-size: 11px;
+    text-align: center;
+    background: #9bcc50;
+    color: #212121;
+}
+
+.type-poison
+{
+    margin: 0 10px;
+    border-radius: 3px;
+    line-height: 18px;
+    max-width: 110px;
+    width: 38.4375%;
+    font-size: 11px;
+    text-align: center;
+    background: #b97fc9;
+    color: #FFFFFF;
+}
