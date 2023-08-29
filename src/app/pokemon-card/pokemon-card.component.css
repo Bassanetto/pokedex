@@ -60,3 +60,16 @@
     background: #b97fc9;
     color: #FFFFFF;
 }
+
+.type-fire
+{
+    margin: 0 10px;
+    border-radius: 3px;
+    line-height: 18px;
+    max-width: 110px;
+    width: 38.4375%;
+    font-size: 11px;
+    text-align: center;
+    background: #e4661e;
+    color: #FFFFFF;
+}
